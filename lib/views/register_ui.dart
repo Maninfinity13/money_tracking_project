@@ -210,7 +210,7 @@ class _RegisterUIState extends State<RegisterUI> {
           ),
         ),
         title: const Text(
-          'เข้าใช้งาน Money Tracking',
+          'ลงทะเบียน',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
