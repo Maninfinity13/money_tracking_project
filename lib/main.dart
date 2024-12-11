@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:money_tracking_project/views/home_ui.dart';
 import 'package:money_tracking_project/views/login_ui.dart';
 import 'package:money_tracking_project/views/splash_screen_ui.dart';
+// import 'package:money_tracking_project/views/home_ui.dart';
 
 
 void main() {
